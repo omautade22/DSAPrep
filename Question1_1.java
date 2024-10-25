@@ -1,4 +1,4 @@
-
+//This is string reversing script
 public class Question1_1 {
     public static void main(String[] args) {
         String str = "hello";
